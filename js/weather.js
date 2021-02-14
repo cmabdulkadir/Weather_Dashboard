@@ -5,7 +5,7 @@ var listItem;
 // for future use to store the value of the user input
 var city = "";
 //  api key
-const apiKey = "&appid=14e9e1a914fcb5a2c472c5cfe5bd32eb";
+const apiKey = "&appid=2b2a454957649950d5d88bff33789b54";
 
 
 // search btn
