@@ -22,3 +22,7 @@ Pull this repo and run this code in the browser
 
 ## Information
 Below you will find a link to my repo and the live link
+
+https://github.com/cmabdulkadir/Weather_Dashboard
+
+https://cmabdulkadir.github.io/Weather_Dashboard/
